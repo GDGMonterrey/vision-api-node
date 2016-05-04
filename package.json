@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/GDGMonterrey/vision-api-node/issues"
   },
-  "homepage": "https://github.com/GDGMonterrey/vision-api-node#readme"
+  "homepage": "https://github.com/GDGMonterrey/vision-api-node#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "multer": "^1.1.0",
+    "node-cloud-vision-api": "^0.2.0"
+  }
 }
