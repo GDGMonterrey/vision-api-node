@@ -1,0 +1,25 @@
+{
+  "name": "vision-api-node",
+  "version": "1.0.0",
+  "description": "Aplicación en node que usa el api cloud vision de Google",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GDGMonterrey/vision-api-node.git"
+  },
+  "keywords": [
+    "cloud",
+    "vision",
+    "api",
+    "node"
+  ],
+  "author": "dezkareid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GDGMonterrey/vision-api-node/issues"
+  },
+  "homepage": "https://github.com/GDGMonterrey/vision-api-node#readme"
+}
